@@ -6,7 +6,7 @@ Welcome to my certification repository. This repository contains my verified cer
 
 ## 🏆 Deloitte – Data Analytics Job Simulation
 
-![Deloitte Certificate](Deloitte_Certificate.png)
+![Deloitte Certificate](Deloitte_Certificate.jpeg)
 
 📄 **Certificate:** [View PDF](Deloitte_Certificate.pdf)
 
@@ -32,7 +32,7 @@ Welcome to my certification repository. This repository contains my verified cer
 
 ![Power BI Certificate](Power_BI.png)
 
-📄 **Certificate:** [View PDF](Power BI.pdf)
+📄 **Certificate:** [View PDF](Power%20BI.pdf)
 
 ---
 
